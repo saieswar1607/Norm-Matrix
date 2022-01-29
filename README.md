@@ -24,7 +24,11 @@ val = np.linalg.norm(n,2)
 print("{:.2f}".format(val))
 ```
 ## Sample Input and Output:
+
+### Input:
 ![norm1](./input.jpg)
+### Output:
+![Output](./output.png])
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.

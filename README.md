@@ -19,6 +19,7 @@ Developed by: K Sai Eswar
 RegisterNumber: 21000679
 '''
 import numpy as np
+
 n = eval(input())
 val = np.linalg.norm(n,2)
 print("{:.2f}".format(val))

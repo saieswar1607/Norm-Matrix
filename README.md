@@ -29,7 +29,7 @@ print("{:.2f}".format(val))
 ### Input:
 ![norm1](./input.jpg)
 ### Output:
-![Output](./output.png])
+![Output](./output.png)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
